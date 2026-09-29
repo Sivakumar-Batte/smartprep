@@ -1,0 +1,48 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "SmartPrep test data",
+  "type": "object",
+  "required": [
+    "schemaVersion",
+    "definitions",
+    "sessions"
+  ],
+  "properties": {
+    "schemaVersion": {
+      "const": "1.0.0"
+    },
+    "definitions": {
+      "type": "array"
+    },
+    "sessions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "testSessionId",
+          "mode",
+          "startedAt",
+          "questionIds",
+          "responses"
+        ],
+        "properties": {
+          "mode": {
+            "enum": [
+              "TOPIC",
+              "MIXED",
+              "ERROR_RETEST",
+              "STAGE"
+            ]
+          },
+          "diagnostic": {
+            "type": "boolean"
+          },
+          "negativeMark": {
+            "type": "number",
+            "minimum": 0
+          }
+        }
+      }
+    }
+  }
+}

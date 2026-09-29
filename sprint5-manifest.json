@@ -1,0 +1,16 @@
+{
+  "release": "0.5.0",
+  "type": "additive-update",
+  "requires": "Sprint 4",
+  "adds": [
+    "practice.html",
+    "src/practice.js",
+    "src/practice.css",
+    "schemas/test-data.schema.json",
+    "README-SPRINT-5.md",
+    "docs/SPRINT-5-ACCEPTANCE.md",
+    "docs/RELEASE-v0.5.0.md",
+    "tests/sprint5-static-check.py"
+  ],
+  "replaces": []
+}

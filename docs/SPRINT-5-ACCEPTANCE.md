@@ -1,0 +1,12 @@
+# Sprint 5 Acceptance Checklist
+- [ ] `practice.html` opens from the live GitHub Pages site.
+- [ ] Main app link returns to `index.html`.
+- [ ] Page reports 90 reference questions and currently 0 eligible scored questions.
+- [ ] No question is manufactured from a null ledger record.
+- [ ] Practice, Diagnostic, Results and Settings tabs open.
+- [ ] Empty-state message explains the evidence gate.
+- [ ] Test history export downloads JSON.
+- [ ] Unsupported import is rejected.
+- [ ] Existing Sprint 4 personal data remains intact.
+- [ ] Sticky headers remain fixed within their scroll box.
+- [ ] When future V2/V3 complete questions exist, answer selection, confidence, scoring, negative marking, attempts and errors work.
