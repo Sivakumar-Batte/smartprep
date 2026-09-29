@@ -1,0 +1,12 @@
+# Acceptance checklist
+- [ ] SQL upgrade completes without error.
+- [ ] cloud.html opens.
+- [ ] Secret key is rejected.
+- [ ] Email confirmation returns to cloud.html.
+- [ ] Sign-in succeeds.
+- [ ] Upload creates only the signed-in user's rows.
+- [ ] Re-upload does not duplicate rows.
+- [ ] Download requires confirmation and merges records.
+- [ ] Existing local data remains after a failed sync.
+- [ ] A second browser can sign in and download the same records.
+- [ ] No reference evidence is uploaded.

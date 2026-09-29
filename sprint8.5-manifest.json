@@ -1,0 +1,16 @@
+{
+  "release": "0.8.5",
+  "type": "additive-update",
+  "requires": "Sprints 4\u20138 and Supabase base schema",
+  "adds": [
+    "cloud.html",
+    "src/cloud.js",
+    "src/cloud.css",
+    "supabase/sprint8_5_sync_upgrade.sql",
+    "README-SPRINT-8.5.md",
+    "docs/SPRINT-8.5-SETUP.md",
+    "docs/SPRINT-8.5-ACCEPTANCE.md",
+    "docs/RELEASE-v0.8.5.md"
+  ],
+  "security": "publishable key entered at runtime; RLS required"
+}
