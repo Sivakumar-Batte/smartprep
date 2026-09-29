@@ -1,0 +1,13 @@
+# Sprint 8 Acceptance Checklist
+- [ ] `analytics.html` opens and Main app works.
+- [ ] Dashboard counts match local attempts, errors, revisions, and sessions.
+- [ ] Empty data shows empty states, not invented values.
+- [ ] Coverage counts concepts with recorded activity.
+- [ ] Concept filters work for active, mastery-qualified, and weak.
+- [ ] Mastery-qualified requires threshold attempts, threshold accuracy, and zero open errors.
+- [ ] Error totals and status counts match My study data.
+- [ ] Study minutes match logged sessions.
+- [ ] Threshold settings survive refresh.
+- [ ] Analytics summary exports as JSON.
+- [ ] Page does not claim exam readiness or predict results.
+- [ ] Sticky table headers remain correct.

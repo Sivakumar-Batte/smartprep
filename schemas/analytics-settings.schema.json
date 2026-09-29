@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "SmartPrep analytics settings",
+  "type": "object",
+  "required": [
+    "masteryAttempts",
+    "masteryAccuracy"
+  ],
+  "properties": {
+    "masteryAttempts": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "masteryAccuracy": {
+      "type": "number",
+      "minimum": 1,
+      "maximum": 100
+    }
+  },
+  "additionalProperties": false
+}

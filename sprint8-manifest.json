@@ -1,0 +1,16 @@
+{
+  "release": "0.8.0",
+  "type": "additive-update",
+  "requires": "Sprint 4 personal storage",
+  "adds": [
+    "analytics.html",
+    "src/analytics.js",
+    "src/analytics.css",
+    "schemas/analytics-settings.schema.json",
+    "README-SPRINT-8.md",
+    "docs/SPRINT-8-ACCEPTANCE.md",
+    "docs/RELEASE-v0.8.0.md",
+    "tests/sprint8-static-check.py"
+  ],
+  "replaces": []
+}
