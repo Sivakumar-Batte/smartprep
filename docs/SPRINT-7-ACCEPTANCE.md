@@ -1,0 +1,11 @@
+# Sprint 7 Acceptance Checklist
+- [ ] `queue.html` opens and Main app works.
+- [ ] Queue shows ranked concepts and a reason for every recommendation.
+- [ ] Due revision and open-error counts match local personal data.
+- [ ] A concept with low accuracy receives a weakness reason.
+- [ ] A concept with no attempts is labelled Not yet practised, not falsely weak.
+- [ ] Changing weights and queue limit recalculates the list.
+- [ ] Reset restores default weights.
+- [ ] Practice and Revision links open their Sprint 5/6 pages.
+- [ ] No queue score is written into reference evidence.
+- [ ] Page states scores are not exam forecasts.

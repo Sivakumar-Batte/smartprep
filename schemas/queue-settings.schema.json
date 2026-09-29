@@ -1,0 +1,54 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "SmartPrep queue settings",
+  "type": "object",
+  "required": [
+    "limit",
+    "weights"
+  ],
+  "properties": {
+    "limit": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 50
+    },
+    "weights": {
+      "type": "object",
+      "required": [
+        "revision",
+        "error",
+        "weakness",
+        "evidence",
+        "inactivity"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "revision": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 100
+        },
+        "error": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 100
+        },
+        "weakness": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 100
+        },
+        "evidence": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 100
+        },
+        "inactivity": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 100
+        }
+      }
+    }
+  }
+}

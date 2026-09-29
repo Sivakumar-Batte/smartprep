@@ -1,0 +1,16 @@
+{
+  "release": "0.7.0",
+  "type": "additive-update",
+  "requires": "Sprint 4 personal storage; Sprint 5 and 6 links",
+  "adds": [
+    "queue.html",
+    "src/queue.js",
+    "src/queue.css",
+    "schemas/queue-settings.schema.json",
+    "README-SPRINT-7.md",
+    "docs/SPRINT-7-ACCEPTANCE.md",
+    "docs/RELEASE-v0.7.0.md",
+    "tests/sprint7-static-check.py"
+  ],
+  "replaces": []
+}
