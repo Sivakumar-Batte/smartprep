@@ -1,0 +1,16 @@
+{
+  "release": "0.6.0",
+  "type": "additive-update",
+  "requires": "Sprint 5 and Sprint 4 personal storage",
+  "adds": [
+    "revision.html",
+    "src/revision.js",
+    "src/revision.css",
+    "schemas/revision-result.schema.json",
+    "README-SPRINT-6.md",
+    "docs/SPRINT-6-ACCEPTANCE.md",
+    "docs/RELEASE-v0.6.0.md",
+    "tests/sprint6-static-check.py"
+  ],
+  "replaces": []
+}

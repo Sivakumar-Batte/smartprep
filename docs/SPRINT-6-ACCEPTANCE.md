@@ -1,0 +1,11 @@
+# Sprint 6 Acceptance Checklist
+- [ ] `revision.html` opens and Main app link works.
+- [ ] A revision can be scheduled and survives refresh.
+- [ ] Due and overdue items display correctly.
+- [ ] Failed, Difficult, Partial and Easy ratings can be saved.
+- [ ] Easy advances farther than Partial; weak recall schedules earlier review.
+- [ ] Failed score below 40 schedules RELEARN for the next day.
+- [ ] Revision history shows rating, score and next date.
+- [ ] Daily review limit and intervals can be changed.
+- [ ] Revision backup exports and imports.
+- [ ] Existing attempts, errors, sessions and reference evidence remain unchanged.
