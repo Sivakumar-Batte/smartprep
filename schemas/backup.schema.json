@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$defs": {
+    "version": {
+      "const": "1.0.0"
+    }
+  },
+  "type": "object",
+  "required": [
+    "schemaVersion",
+    "application",
+    "exportedAt",
+    "referenceData",
+    "personalData"
+  ],
+  "properties": {
+    "schemaVersion": {
+      "$ref": "#/$defs/version"
+    },
+    "application": {
+      "const": "SmartPrep"
+    },
+    "exportedAt": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "referenceData": {
+      "type": "object"
+    },
+    "personalData": {
+      "type": "object"
+    }
+  },
+  "additionalProperties": true
+}

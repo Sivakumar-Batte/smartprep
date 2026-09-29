@@ -1,0 +1,56 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$defs": {
+    "version": {
+      "const": "1.0.0"
+    }
+  },
+  "type": "object",
+  "required": [
+    "schemaVersion",
+    "records"
+  ],
+  "properties": {
+    "schemaVersion": {
+      "$ref": "#/$defs/version"
+    },
+    "records": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "provenanceId",
+          "entityType",
+          "entityId",
+          "sourceType",
+          "capturedDate"
+        ],
+        "properties": {
+          "provenanceId": {
+            "type": "string"
+          },
+          "entityType": {
+            "enum": [
+              "QUESTION",
+              "SYLLABUS_NODE",
+              "CONCEPT",
+              "CONTENT"
+            ]
+          },
+          "entityId": {
+            "type": "string"
+          },
+          "sourceType": {
+            "type": "string"
+          },
+          "capturedDate": {
+            "type": "string",
+            "format": "date"
+          }
+        },
+        "additionalProperties": true
+      }
+    }
+  },
+  "additionalProperties": false
+}

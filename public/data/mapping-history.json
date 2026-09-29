@@ -1,0 +1,26 @@
+{
+  "schemaVersion": "1.0.0",
+  "dataVersion": "1.1.0",
+  "records": [
+    {
+      "mappingHistoryId": "MAP-Q031-002",
+      "questionId": "APPSC-G2-2024-S-Q031",
+      "fromConceptId": "S-GEO-PHY-03",
+      "toConceptId": "S-GEO-PHY-09",
+      "fromTaxonomyVersion": "1.0",
+      "toTaxonomyVersion": "1.1",
+      "reason": "Continental Drift required a more precise canonical unit",
+      "changedDate": "2026-09-29"
+    },
+    {
+      "mappingHistoryId": "MAP-Q039-002",
+      "questionId": "APPSC-G2-2024-S-Q039",
+      "fromConceptId": "S-GEO-PHY-05",
+      "toConceptId": "S-GEO-PHY-10",
+      "fromTaxonomyVersion": "1.0",
+      "toTaxonomyVersion": "1.1",
+      "reason": "Ocean-water properties required a distinct canonical unit",
+      "changedDate": "2026-09-29"
+    }
+  ]
+}

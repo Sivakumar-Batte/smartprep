@@ -1,0 +1,60 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$defs": {
+    "version": {
+      "const": "1.0.0"
+    }
+  },
+  "type": "object",
+  "required": [
+    "schemaVersion",
+    "records"
+  ],
+  "properties": {
+    "schemaVersion": {
+      "$ref": "#/$defs/version"
+    },
+    "records": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "conceptId",
+          "name",
+          "syllabusNodeIds",
+          "taxonomyVersion",
+          "status"
+        ],
+        "properties": {
+          "conceptId": {
+            "type": "string"
+          },
+          "name": {
+            "type": "string",
+            "minLength": 1
+          },
+          "syllabusNodeIds": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "taxonomyVersion": {
+            "type": "string"
+          },
+          "status": {
+            "enum": [
+              "ACTIVE",
+              "DEPRECATED",
+              "MERGED",
+              "SPLIT",
+              "ARCHIVED"
+            ]
+          }
+        },
+        "additionalProperties": true
+      }
+    }
+  },
+  "additionalProperties": false
+}

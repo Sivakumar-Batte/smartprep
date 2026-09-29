@@ -1,0 +1,93 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$defs": {
+    "version": {
+      "const": "1.0.0"
+    }
+  },
+  "type": "object",
+  "required": [
+    "schemaVersion",
+    "records"
+  ],
+  "properties": {
+    "schemaVersion": {
+      "$ref": "#/$defs/version"
+    },
+    "records": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "questionId",
+          "evidenceClass",
+          "verificationStatus",
+          "questionStatus",
+          "questionType",
+          "difficulty",
+          "mappingVersion"
+        ],
+        "properties": {
+          "questionId": {
+            "type": "string"
+          },
+          "primaryConceptId": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "evidenceClass": {
+            "enum": [
+              "E1-S",
+              "E1-M",
+              "E2",
+              "E3"
+            ]
+          },
+          "verificationStatus": {
+            "enum": [
+              "U",
+              "P",
+              "V1",
+              "V2",
+              "V3"
+            ]
+          },
+          "questionStatus": {
+            "enum": [
+              "ACTIVE",
+              "DELETED",
+              "DROPPED",
+              "REPLACED",
+              "DUPLICATE",
+              "ARCHIVED"
+            ]
+          },
+          "questionType": {
+            "enum": [
+              "OFFICIAL_PYQ",
+              "PRACTICE",
+              "MANUAL",
+              "AI_GENERATED"
+            ]
+          },
+          "difficulty": {
+            "enum": [
+              "UNKNOWN",
+              "EASY",
+              "MODERATE",
+              "DIFFICULT",
+              "EXPERT"
+            ]
+          },
+          "mappingVersion": {
+            "type": "string"
+          }
+        },
+        "additionalProperties": true
+      }
+    }
+  },
+  "additionalProperties": false
+}

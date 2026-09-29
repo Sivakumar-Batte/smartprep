@@ -1,0 +1,9 @@
+{
+  "name": "smartprep-v1",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "node tests/acceptance.mjs",
+    "test:sprint2": "node tests/sprint2-integrity.mjs"
+  }
+}

@@ -1,0 +1,805 @@
+{
+  "schemaVersion": "1.0.0",
+  "dataVersion": "1.1.0",
+  "records": [
+    {
+      "conceptId": "S-ITH-ANC-01",
+      "name": "Indus Valley Civilization",
+      "description": "Indus Valley Civilization",
+      "syllabusNodeIds": [
+        "SYL-S-ITH-ANC"
+      ],
+      "stageRelationships": [
+        {
+          "stage": "SCREENING",
+          "paper": "GENERAL_STUDIES_MENTAL_ABILITY"
+        }
+      ],
+      "relatedConceptIds": [],
+      "taxonomyVersion": "1.1",
+      "status": "ACTIVE"
+    },
+    {
+      "conceptId": "S-ITH-ANC-02",
+      "name": "Vedic Age",
+      "description": "Vedic Age",
+      "syllabusNodeIds": [
+        "SYL-S-ITH-ANC"
+      ],
+      "stageRelationships": [
+        {
+          "stage": "SCREENING",
+          "paper": "GENERAL_STUDIES_MENTAL_ABILITY"
+        }
+      ],
+      "relatedConceptIds": [],
+      "taxonomyVersion": "1.1",
+      "status": "ACTIVE"
+    },
+    {
+      "conceptId": "S-ITH-ANC-03",
+      "name": "Buddhism",
+      "description": "Buddhism",
+      "syllabusNodeIds": [
+        "SYL-S-ITH-ANC"
+      ],
+      "stageRelationships": [
+        {
+          "stage": "SCREENING",
+          "paper": "GENERAL_STUDIES_MENTAL_ABILITY"
+        }
+      ],
+      "relatedConceptIds": [],
+      "taxonomyVersion": "1.1",
+      "status": "ACTIVE"
+    },
+    {
+      "conceptId": "S-ITH-ANC-05",
+      "name": "Mauryan Empire",
+      "description": "Mauryan Empire",
+      "syllabusNodeIds": [
+        "SYL-S-ITH-ANC"
+      ],
+      "stageRelationships": [
+        {
+          "stage": "SCREENING",
+          "paper": "GENERAL_STUDIES_MENTAL_ABILITY"
+        }
+      ],
+      "relatedConceptIds": [],
+      "taxonomyVersion": "1.1",
+      "status": "ACTIVE"
+    },
+    {
+      "conceptId": "S-ITH-ANC-06",
+      "name": "Gupta Empire",
+      "description": "Gupta Empire",
+      "syllabusNodeIds": [
+        "SYL-S-ITH-ANC"
+      ],
+      "stageRelationships": [
+        {
+          "stage": "SCREENING",
+          "paper": "GENERAL_STUDIES_MENTAL_ABILITY"
+        }
+      ],
+      "relatedConceptIds": [],
+      "taxonomyVersion": "1.1",
+      "status": "ACTIVE"
+    },
+    {
+      "conceptId": "S-ITH-ANC-07",
+      "name": "Harshavardhana",
+      "description": "Harshavardhana",
+      "syllabusNodeIds": [
+        "SYL-S-ITH-ANC"
+      ],
+      "stageRelationships": [
+        {
+          "stage": "SCREENING",
+          "paper": "GENERAL_STUDIES_MENTAL_ABILITY"
+        }
+      ],
+      "relatedConceptIds": [],
+      "taxonomyVersion": "1.1",
+      "status": "ACTIVE"
+    },
+    {
+      "conceptId": "S-ITH-MED-02",
+      "name": "Delhi Sultanate",
+      "description": "Delhi Sultanate",
+      "syllabusNodeIds": [
+        "SYL-S-ITH-MED"
+      ],
+      "stageRelationships": [
+        {
+          "stage": "SCREENING",
+          "paper": "GENERAL_STUDIES_MENTAL_ABILITY"
+        }
+      ],
+      "relatedConceptIds": [],
+      "taxonomyVersion": "1.1",
+      "status": "ACTIVE"
+    },
+    {
+      "conceptId": "S-ITH-MED-03",
+      "name": "Mughal Empire",
+      "description": "Mughal Empire",
+      "syllabusNodeIds": [
+        "SYL-S-ITH-MED"
+      ],
+      "stageRelationships": [
+        {
+          "stage": "SCREENING",
+          "paper": "GENERAL_STUDIES_MENTAL_ABILITY"
+        }
+      ],
+      "relatedConceptIds": [],
+      "taxonomyVersion": "1.1",
+      "status": "ACTIVE"
+    },
+    {
+      "conceptId": "S-ITH-MED-06",
+      "name": "Shivaji and rise of Maratha Empire",
+      "description": "Shivaji and rise of Maratha Empire",
+      "syllabusNodeIds": [
+        "SYL-S-ITH-MED"
+      ],
+      "stageRelationships": [
+        {
+          "stage": "SCREENING",
+          "paper": "GENERAL_STUDIES_MENTAL_ABILITY"
+        }
+      ],
+      "relatedConceptIds": [],
+      "taxonomyVersion": "1.1",
+      "status": "ACTIVE"
+    },
+    {
+      "conceptId": "S-ITH-MED-07",
+      "name": "Advent of Europeans",
+      "description": "Advent of Europeans",
+      "syllabusNodeIds": [
+        "SYL-S-ITH-MED"
+      ],
+      "stageRelationships": [
+        {
+          "stage": "SCREENING",
+          "paper": "GENERAL_STUDIES_MENTAL_ABILITY"
+        }
+      ],
+      "relatedConceptIds": [],
+      "taxonomyVersion": "1.1",
+      "status": "ACTIVE"
+    },
+    {
+      "conceptId": "S-ITH-MOD-01",
+      "name": "Revolt of 1857 and impact",
+      "description": "Revolt of 1857 and impact",
+      "syllabusNodeIds": [
+        "SYL-S-ITH-MOD"
+      ],
+      "stageRelationships": [
+        {
+          "stage": "SCREENING",
+          "paper": "GENERAL_STUDIES_MENTAL_ABILITY"
+        }
+      ],
+      "relatedConceptIds": [],
+      "taxonomyVersion": "1.1",
+      "status": "ACTIVE"
+    },
+    {
+      "conceptId": "S-ITH-MOD-02",
+      "name": "British power in India",
+      "description": "British power in India",
+      "syllabusNodeIds": [
+        "SYL-S-ITH-MOD"
+      ],
+      "stageRelationships": [
+        {
+          "stage": "SCREENING",
+          "paper": "GENERAL_STUDIES_MENTAL_ABILITY"
+        }
+      ],
+      "relatedConceptIds": [],
+      "taxonomyVersion": "1.1",
+      "status": "ACTIVE"
+    },
+    {
+      "conceptId": "S-ITH-MOD-03",
+      "name": "Administrative changes",
+      "description": "Administrative changes",
+      "syllabusNodeIds": [
+        "SYL-S-ITH-MOD"
+      ],
+      "stageRelationships": [
+        {
+          "stage": "SCREENING",
+          "paper": "GENERAL_STUDIES_MENTAL_ABILITY"
+        }
+      ],
+      "relatedConceptIds": [],
+      "taxonomyVersion": "1.1",
+      "status": "ACTIVE"
+    },
+    {
+      "conceptId": "S-ITH-MOD-04",
+      "name": "Social and cultural changes",
+      "description": "Social and cultural changes",
+      "syllabusNodeIds": [
+        "SYL-S-ITH-MOD"
+      ],
+      "stageRelationships": [
+        {
+          "stage": "SCREENING",
+          "paper": "GENERAL_STUDIES_MENTAL_ABILITY"
+        }
+      ],
+      "relatedConceptIds": [],
+      "taxonomyVersion": "1.1",
+      "status": "ACTIVE"
+    },
+    {
+      "conceptId": "S-ITH-MOD-05",
+      "name": "Social and religious reform movements",
+      "description": "Social and religious reform movements",
+      "syllabusNodeIds": [
+        "SYL-S-ITH-MOD"
+      ],
+      "stageRelationships": [
+        {
+          "stage": "SCREENING",
+          "paper": "GENERAL_STUDIES_MENTAL_ABILITY"
+        }
+      ],
+      "relatedConceptIds": [],
+      "taxonomyVersion": "1.1",
+      "status": "ACTIVE"
+    },
+    {
+      "conceptId": "S-ITH-MOD-06",
+      "name": "Indian National Movement",
+      "description": "Indian National Movement",
+      "syllabusNodeIds": [
+        "SYL-S-ITH-MOD"
+      ],
+      "stageRelationships": [
+        {
+          "stage": "SCREENING",
+          "paper": "GENERAL_STUDIES_MENTAL_ABILITY"
+        }
+      ],
+      "relatedConceptIds": [],
+      "taxonomyVersion": "1.1",
+      "status": "ACTIVE"
+    },
+    {
+      "conceptId": "S-GEO-PHY-03",
+      "name": "Major landforms",
+      "description": "Major landforms",
+      "syllabusNodeIds": [
+        "SYL-S-GEO-PHY"
+      ],
+      "stageRelationships": [
+        {
+          "stage": "SCREENING",
+          "paper": "GENERAL_STUDIES_MENTAL_ABILITY"
+        }
+      ],
+      "relatedConceptIds": [],
+      "taxonomyVersion": "1.1",
+      "status": "ACTIVE"
+    },
+    {
+      "conceptId": "S-GEO-PHY-04",
+      "name": "Atmosphere",
+      "description": "Atmosphere",
+      "syllabusNodeIds": [
+        "SYL-S-GEO-PHY"
+      ],
+      "stageRelationships": [
+        {
+          "stage": "SCREENING",
+          "paper": "GENERAL_STUDIES_MENTAL_ABILITY"
+        }
+      ],
+      "relatedConceptIds": [],
+      "taxonomyVersion": "1.1",
+      "status": "ACTIVE"
+    },
+    {
+      "conceptId": "S-GEO-PHY-05",
+      "name": "Climate",
+      "description": "Climate",
+      "syllabusNodeIds": [
+        "SYL-S-GEO-PHY"
+      ],
+      "stageRelationships": [
+        {
+          "stage": "SCREENING",
+          "paper": "GENERAL_STUDIES_MENTAL_ABILITY"
+        }
+      ],
+      "relatedConceptIds": [],
+      "taxonomyVersion": "1.1",
+      "status": "ACTIVE"
+    },
+    {
+      "conceptId": "S-GEO-PHY-08",
+      "name": "Ocean currents",
+      "description": "Ocean currents",
+      "syllabusNodeIds": [
+        "SYL-S-GEO-PHY"
+      ],
+      "stageRelationships": [
+        {
+          "stage": "SCREENING",
+          "paper": "GENERAL_STUDIES_MENTAL_ABILITY"
+        }
+      ],
+      "relatedConceptIds": [],
+      "taxonomyVersion": "1.1",
+      "status": "ACTIVE"
+    },
+    {
+      "conceptId": "S-GEO-PHY-09",
+      "name": "Continental Drift / continental movement concepts",
+      "description": "Continental Drift / continental movement concepts",
+      "syllabusNodeIds": [
+        "SYL-S-GEO-PHY"
+      ],
+      "stageRelationships": [
+        {
+          "stage": "SCREENING",
+          "paper": "GENERAL_STUDIES_MENTAL_ABILITY"
+        }
+      ],
+      "relatedConceptIds": [],
+      "taxonomyVersion": "1.1",
+      "status": "ACTIVE"
+    },
+    {
+      "conceptId": "S-GEO-PHY-10",
+      "name": "Ocean Water / properties",
+      "description": "Ocean Water / properties",
+      "syllabusNodeIds": [
+        "SYL-S-GEO-PHY"
+      ],
+      "stageRelationships": [
+        {
+          "stage": "SCREENING",
+          "paper": "GENERAL_STUDIES_MENTAL_ABILITY"
+        }
+      ],
+      "relatedConceptIds": [],
+      "taxonomyVersion": "1.1",
+      "status": "ACTIVE"
+    },
+    {
+      "conceptId": "S-GEO-INDAP-01",
+      "name": "Physiography of India and AP",
+      "description": "Physiography of India and AP",
+      "syllabusNodeIds": [
+        "SYL-S-GEO-INDAP"
+      ],
+      "stageRelationships": [
+        {
+          "stage": "SCREENING",
+          "paper": "GENERAL_STUDIES_MENTAL_ABILITY"
+        }
+      ],
+      "relatedConceptIds": [],
+      "taxonomyVersion": "1.1",
+      "status": "ACTIVE"
+    },
+    {
+      "conceptId": "S-GEO-INDAP-02",
+      "name": "Climate of India and AP",
+      "description": "Climate of India and AP",
+      "syllabusNodeIds": [
+        "SYL-S-GEO-INDAP"
+      ],
+      "stageRelationships": [
+        {
+          "stage": "SCREENING",
+          "paper": "GENERAL_STUDIES_MENTAL_ABILITY"
+        }
+      ],
+      "relatedConceptIds": [],
+      "taxonomyVersion": "1.1",
+      "status": "ACTIVE"
+    },
+    {
+      "conceptId": "S-GEO-INDAP-03",
+      "name": "Drainage",
+      "description": "Drainage",
+      "syllabusNodeIds": [
+        "SYL-S-GEO-INDAP"
+      ],
+      "stageRelationships": [
+        {
+          "stage": "SCREENING",
+          "paper": "GENERAL_STUDIES_MENTAL_ABILITY"
+        }
+      ],
+      "relatedConceptIds": [],
+      "taxonomyVersion": "1.1",
+      "status": "ACTIVE"
+    },
+    {
+      "conceptId": "S-GEO-INDAP-04",
+      "name": "Soils",
+      "description": "Soils",
+      "syllabusNodeIds": [
+        "SYL-S-GEO-INDAP"
+      ],
+      "stageRelationships": [
+        {
+          "stage": "SCREENING",
+          "paper": "GENERAL_STUDIES_MENTAL_ABILITY"
+        }
+      ],
+      "relatedConceptIds": [],
+      "taxonomyVersion": "1.1",
+      "status": "ACTIVE"
+    },
+    {
+      "conceptId": "S-GEO-INDAP-05",
+      "name": "Vegetation",
+      "description": "Vegetation",
+      "syllabusNodeIds": [
+        "SYL-S-GEO-INDAP"
+      ],
+      "stageRelationships": [
+        {
+          "stage": "SCREENING",
+          "paper": "GENERAL_STUDIES_MENTAL_ABILITY"
+        }
+      ],
+      "relatedConceptIds": [],
+      "taxonomyVersion": "1.1",
+      "status": "ACTIVE"
+    },
+    {
+      "conceptId": "S-GEO-DIS-01",
+      "name": "Natural hazards and disasters",
+      "description": "Natural hazards and disasters",
+      "syllabusNodeIds": [
+        "SYL-S-GEO-DIS"
+      ],
+      "stageRelationships": [
+        {
+          "stage": "SCREENING",
+          "paper": "GENERAL_STUDIES_MENTAL_ABILITY"
+        }
+      ],
+      "relatedConceptIds": [],
+      "taxonomyVersion": "1.1",
+      "status": "ACTIVE"
+    },
+    {
+      "conceptId": "S-GEO-ECO-01",
+      "name": "Natural resources and distribution",
+      "description": "Natural resources and distribution",
+      "syllabusNodeIds": [
+        "SYL-S-GEO-ECO"
+      ],
+      "stageRelationships": [
+        {
+          "stage": "SCREENING",
+          "paper": "GENERAL_STUDIES_MENTAL_ABILITY"
+        }
+      ],
+      "relatedConceptIds": [],
+      "taxonomyVersion": "1.1",
+      "status": "ACTIVE"
+    },
+    {
+      "conceptId": "S-GEO-ECO-02",
+      "name": "Agriculture",
+      "description": "Agriculture",
+      "syllabusNodeIds": [
+        "SYL-S-GEO-ECO"
+      ],
+      "stageRelationships": [
+        {
+          "stage": "SCREENING",
+          "paper": "GENERAL_STUDIES_MENTAL_ABILITY"
+        }
+      ],
+      "relatedConceptIds": [],
+      "taxonomyVersion": "1.1",
+      "status": "ACTIVE"
+    },
+    {
+      "conceptId": "S-GEO-ECO-04",
+      "name": "Major industries",
+      "description": "Major industries",
+      "syllabusNodeIds": [
+        "SYL-S-GEO-ECO"
+      ],
+      "stageRelationships": [
+        {
+          "stage": "SCREENING",
+          "paper": "GENERAL_STUDIES_MENTAL_ABILITY"
+        }
+      ],
+      "relatedConceptIds": [],
+      "taxonomyVersion": "1.1",
+      "status": "ACTIVE"
+    },
+    {
+      "conceptId": "S-GEO-ECO-06",
+      "name": "Transport",
+      "description": "Transport",
+      "syllabusNodeIds": [
+        "SYL-S-GEO-ECO"
+      ],
+      "stageRelationships": [
+        {
+          "stage": "SCREENING",
+          "paper": "GENERAL_STUDIES_MENTAL_ABILITY"
+        }
+      ],
+      "relatedConceptIds": [],
+      "taxonomyVersion": "1.1",
+      "status": "ACTIVE"
+    },
+    {
+      "conceptId": "S-GEO-ECO-08",
+      "name": "Tourism",
+      "description": "Tourism",
+      "syllabusNodeIds": [
+        "SYL-S-GEO-ECO"
+      ],
+      "stageRelationships": [
+        {
+          "stage": "SCREENING",
+          "paper": "GENERAL_STUDIES_MENTAL_ABILITY"
+        }
+      ],
+      "relatedConceptIds": [],
+      "taxonomyVersion": "1.1",
+      "status": "ACTIVE"
+    },
+    {
+      "conceptId": "S-GEO-HUM-03",
+      "name": "Urbanization",
+      "description": "Urbanization",
+      "syllabusNodeIds": [
+        "SYL-S-GEO-HUM"
+      ],
+      "stageRelationships": [
+        {
+          "stage": "SCREENING",
+          "paper": "GENERAL_STUDIES_MENTAL_ABILITY"
+        }
+      ],
+      "relatedConceptIds": [],
+      "taxonomyVersion": "1.1",
+      "status": "ACTIVE"
+    },
+    {
+      "conceptId": "S-GEO-HUM-06",
+      "name": "Tribal groups",
+      "description": "Tribal groups",
+      "syllabusNodeIds": [
+        "SYL-S-GEO-HUM"
+      ],
+      "stageRelationships": [
+        {
+          "stage": "SCREENING",
+          "paper": "GENERAL_STUDIES_MENTAL_ABILITY"
+        }
+      ],
+      "relatedConceptIds": [],
+      "taxonomyVersion": "1.1",
+      "status": "ACTIVE"
+    },
+    {
+      "conceptId": "S-SOC-STR-03",
+      "name": "Kinship",
+      "description": "Kinship",
+      "syllabusNodeIds": [
+        "SYL-S-SOC-STR"
+      ],
+      "stageRelationships": [
+        {
+          "stage": "SCREENING",
+          "paper": "GENERAL_STUDIES_MENTAL_ABILITY"
+        }
+      ],
+      "relatedConceptIds": [],
+      "taxonomyVersion": "1.1",
+      "status": "ACTIVE"
+    },
+    {
+      "conceptId": "S-SOC-STR-05",
+      "name": "Tribe",
+      "description": "Tribe",
+      "syllabusNodeIds": [
+        "SYL-S-SOC-STR"
+      ],
+      "stageRelationships": [
+        {
+          "stage": "SCREENING",
+          "paper": "GENERAL_STUDIES_MENTAL_ABILITY"
+        }
+      ],
+      "relatedConceptIds": [],
+      "taxonomyVersion": "1.1",
+      "status": "ACTIVE"
+    },
+    {
+      "conceptId": "S-SOC-STR-08",
+      "name": "Women",
+      "description": "Women",
+      "syllabusNodeIds": [
+        "SYL-S-SOC-STR"
+      ],
+      "stageRelationships": [
+        {
+          "stage": "SCREENING",
+          "paper": "GENERAL_STUDIES_MENTAL_ABILITY"
+        }
+      ],
+      "relatedConceptIds": [],
+      "taxonomyVersion": "1.1",
+      "status": "ACTIVE"
+    },
+    {
+      "conceptId": "S-SOC-ISS-03",
+      "name": "Regionalisation",
+      "description": "Regionalisation",
+      "syllabusNodeIds": [
+        "SYL-S-SOC-ISS"
+      ],
+      "stageRelationships": [
+        {
+          "stage": "SCREENING",
+          "paper": "GENERAL_STUDIES_MENTAL_ABILITY"
+        }
+      ],
+      "relatedConceptIds": [],
+      "taxonomyVersion": "1.1",
+      "status": "ACTIVE"
+    },
+    {
+      "conceptId": "S-SOC-ISS-04",
+      "name": "Crime against Women",
+      "description": "Crime against Women",
+      "syllabusNodeIds": [
+        "SYL-S-SOC-ISS"
+      ],
+      "stageRelationships": [
+        {
+          "stage": "SCREENING",
+          "paper": "GENERAL_STUDIES_MENTAL_ABILITY"
+        }
+      ],
+      "relatedConceptIds": [],
+      "taxonomyVersion": "1.1",
+      "status": "ACTIVE"
+    },
+    {
+      "conceptId": "S-SOC-ISS-05",
+      "name": "Child Abuse",
+      "description": "Child Abuse",
+      "syllabusNodeIds": [
+        "SYL-S-SOC-ISS"
+      ],
+      "stageRelationships": [
+        {
+          "stage": "SCREENING",
+          "paper": "GENERAL_STUDIES_MENTAL_ABILITY"
+        }
+      ],
+      "relatedConceptIds": [],
+      "taxonomyVersion": "1.1",
+      "status": "ACTIVE"
+    },
+    {
+      "conceptId": "S-SOC-ISS-06",
+      "name": "Child Labour",
+      "description": "Child Labour",
+      "syllabusNodeIds": [
+        "SYL-S-SOC-ISS"
+      ],
+      "stageRelationships": [
+        {
+          "stage": "SCREENING",
+          "paper": "GENERAL_STUDIES_MENTAL_ABILITY"
+        }
+      ],
+      "relatedConceptIds": [],
+      "taxonomyVersion": "1.1",
+      "status": "ACTIVE"
+    },
+    {
+      "conceptId": "S-SOC-WEL-03",
+      "name": "Scheduled Castes",
+      "description": "Scheduled Castes",
+      "syllabusNodeIds": [
+        "SYL-S-SOC-WEL"
+      ],
+      "stageRelationships": [
+        {
+          "stage": "SCREENING",
+          "paper": "GENERAL_STUDIES_MENTAL_ABILITY"
+        }
+      ],
+      "relatedConceptIds": [],
+      "taxonomyVersion": "1.1",
+      "status": "ACTIVE"
+    },
+    {
+      "conceptId": "S-SOC-WEL-04",
+      "name": "Scheduled Tribes",
+      "description": "Scheduled Tribes",
+      "syllabusNodeIds": [
+        "SYL-S-SOC-WEL"
+      ],
+      "stageRelationships": [
+        {
+          "stage": "SCREENING",
+          "paper": "GENERAL_STUDIES_MENTAL_ABILITY"
+        }
+      ],
+      "relatedConceptIds": [],
+      "taxonomyVersion": "1.1",
+      "status": "ACTIVE"
+    },
+    {
+      "conceptId": "S-SOC-WEL-07",
+      "name": "Women",
+      "description": "Women",
+      "syllabusNodeIds": [
+        "SYL-S-SOC-WEL"
+      ],
+      "stageRelationships": [
+        {
+          "stage": "SCREENING",
+          "paper": "GENERAL_STUDIES_MENTAL_ABILITY"
+        }
+      ],
+      "relatedConceptIds": [],
+      "taxonomyVersion": "1.1",
+      "status": "ACTIVE"
+    },
+    {
+      "conceptId": "S-SOC-WEL-08",
+      "name": "Disabled",
+      "description": "Disabled",
+      "syllabusNodeIds": [
+        "SYL-S-SOC-WEL"
+      ],
+      "stageRelationships": [
+        {
+          "stage": "SCREENING",
+          "paper": "GENERAL_STUDIES_MENTAL_ABILITY"
+        }
+      ],
+      "relatedConceptIds": [],
+      "taxonomyVersion": "1.1",
+      "status": "ACTIVE"
+    },
+    {
+      "conceptId": "S-SOC-WEL-09",
+      "name": "Children",
+      "description": "Children",
+      "syllabusNodeIds": [
+        "SYL-S-SOC-WEL"
+      ],
+      "stageRelationships": [
+        {
+          "stage": "SCREENING",
+          "paper": "GENERAL_STUDIES_MENTAL_ABILITY"
+        }
+      ],
+      "relatedConceptIds": [],
+      "taxonomyVersion": "1.1",
+      "status": "ACTIVE"
+    }
+  ]
+}

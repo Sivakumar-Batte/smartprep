@@ -1,0 +1,61 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$defs": {
+    "version": {
+      "const": "1.0.0"
+    }
+  },
+  "type": "object",
+  "required": [
+    "schemaVersion",
+    "records"
+  ],
+  "properties": {
+    "schemaVersion": {
+      "$ref": "#/$defs/version"
+    },
+    "records": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "syllabusNodeId",
+          "officialTitle",
+          "officialWording",
+          "sourceId",
+          "taxonomyVersion"
+        ],
+        "properties": {
+          "syllabusNodeId": {
+            "type": "string"
+          },
+          "officialTitle": {
+            "type": "string",
+            "minLength": 1
+          },
+          "officialWording": {
+            "type": "string",
+            "minLength": 1
+          },
+          "sourceId": {
+            "type": "string"
+          },
+          "taxonomyVersion": {
+            "type": "string"
+          },
+          "parentNodeId": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "active": {
+            "type": "boolean"
+          }
+        },
+        "additionalProperties": true
+      }
+    }
+  },
+  "additionalProperties": false
+}

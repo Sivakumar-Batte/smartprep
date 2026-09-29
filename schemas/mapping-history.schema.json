@@ -1,0 +1,28 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Mapping history",
+  "type": "object",
+  "required": [
+    "schemaVersion",
+    "records"
+  ],
+  "properties": {
+    "schemaVersion": {
+      "const": "1.0.0"
+    },
+    "records": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "mappingHistoryId",
+          "questionId",
+          "toConceptId",
+          "toTaxonomyVersion",
+          "reason",
+          "changedDate"
+        ]
+      }
+    }
+  }
+}

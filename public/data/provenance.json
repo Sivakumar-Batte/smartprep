@@ -1,0 +1,1264 @@
+{
+  "schemaVersion": "1.0.0",
+  "dataVersion": "1.1.0",
+  "records": [
+    {
+      "provenanceId": "PROV-Q001-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q001",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-ITH-ANC-03"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q002-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q002",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-ITH-ANC-05"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q004-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q004",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-ITH-ANC-05"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q005-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q005",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-ITH-ANC-06"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q006-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q006",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-ITH-ANC-07"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q007-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q007",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-ITH-MOD-03"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q008-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q008",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-ITH-MED-02"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q009-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q009",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-ITH-MED-06"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q010-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q010",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-ITH-MOD-01"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q011-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q011",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-ITH-MOD-06"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q012-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q012",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-ITH-MOD-03"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q013-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q013",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-ITH-MED-07"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q014-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q014",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-ITH-MOD-05"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q015-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q015",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-ITH-MOD-06"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q016-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q016",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-ITH-MOD-02"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q017-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q017",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-ITH-ANC-01"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q018-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q018",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-ITH-ANC-02"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q019-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q019",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-ITH-MED-03"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q020-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q020",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-ITH-MOD-06"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q021-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q021",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-ITH-MOD-03"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q022-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q022",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-ITH-MOD-04"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q023-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q023",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-ITH-MOD-04"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q024-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q024",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-ITH-MOD-05"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q025-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q025",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-ITH-MED-07"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q026-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q026",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-ITH-MOD-03"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q027-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q027",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-ITH-MOD-04"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q028-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q028",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-ITH-MOD-06"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q029-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q029",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-ITH-MOD-05"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q030-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q030",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-ITH-MOD-03"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q031-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q031",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-GEO-PHY-09"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q032-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q032",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-GEO-DIS-01"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q033-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q033",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-GEO-PHY-03"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q034-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q034",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-GEO-PHY-03"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q035-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q035",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-GEO-PHY-04"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q036-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q036",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-GEO-PHY-04"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q037-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q037",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-GEO-INDAP-01"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q038-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q038",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-GEO-PHY-08"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q039-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q039",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-GEO-PHY-10"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q040-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q040",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-GEO-PHY-03"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q041-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q041",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-GEO-PHY-05"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q042-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q042",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-GEO-INDAP-01"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q043-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q043",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-GEO-INDAP-01"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q044-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q044",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-GEO-INDAP-03"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q045-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q045",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-GEO-INDAP-02"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q046-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q046",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-GEO-INDAP-04"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q047-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q047",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-GEO-INDAP-05"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q048-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q048",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-GEO-INDAP-03"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q049-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q049",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-GEO-INDAP-04"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q050-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q050",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-GEO-HUM-06"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q051-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q051",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-GEO-INDAP-02"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q052-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q052",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-GEO-HUM-03"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q053-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q053",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-GEO-ECO-02"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q054-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q054",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-GEO-ECO-02"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q055-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q055",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-GEO-ECO-04"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q056-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q056",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-GEO-ECO-04"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q057-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q057",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-GEO-ECO-06"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q058-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q058",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-GEO-ECO-06"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q059-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q059",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-GEO-ECO-01"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q060-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q060",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-GEO-ECO-08"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q061-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q061",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-SOC-ISS-05"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q063-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q063",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-SOC-STR-05"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q064-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q064",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-SOC-ISS-06"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q066-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q066",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-SOC-STR-03"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q071-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q071",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-SOC-WEL-08"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q072-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q072",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-SOC-WEL-04"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q073-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q073",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-SOC-STR-08"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q077-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q077",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-SOC-ISS-04"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q078-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q078",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-SOC-WEL-07"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q079-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q079",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-SOC-ISS-03"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q081-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q081",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-SOC-WEL-09"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q083-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q083",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-SOC-WEL-03"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q084-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q084",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-SOC-WEL-08"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q087-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q087",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-SOC-WEL-09"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    },
+    {
+      "provenanceId": "PROV-Q089-001",
+      "entityType": "QUESTION",
+      "entityId": "APPSC-G2-2024-S-Q089",
+      "sourceType": "SECONDARY_TRANSCRIPTION",
+      "sourceTitle": "User-provided 2024 Screening transcription mapping",
+      "sourceReference": null,
+      "capturedDate": "2026-09-29",
+      "verificationStatusAssigned": "P",
+      "mappingVersion": "1.1",
+      "previousValue": null,
+      "newValue": {
+        "primaryConceptId": "S-SOC-WEL-04"
+      },
+      "reason": "Provisional mapping retained from frozen Q1-90 ledger",
+      "replaced": false
+    }
+  ]
+}
