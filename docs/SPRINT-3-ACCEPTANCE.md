@@ -1,0 +1,12 @@
+# Sprint 3 Acceptance Checklist
+- [ ] Site shows `Evidence Layer · Sprint 3`.
+- [ ] Question-ledger header remains at the top of its scroll box.
+- [ ] Header does not float in the middle of rows.
+- [ ] Breadcrumbs appear on Syllabus, Concepts, Question ledger and Audit trail.
+- [ ] Concept search, family filter and Clear work.
+- [ ] Question search, verification filter, section filter and Clear work.
+- [ ] Result counts update.
+- [ ] Opening a concept shows mapped Q numbers.
+- [ ] Q3 remains U, unmapped and deliberately null.
+- [ ] Q91–150 remain absent.
+- [ ] No distribution, priority or readiness calculation appears.
