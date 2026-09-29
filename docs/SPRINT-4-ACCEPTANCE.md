@@ -1,0 +1,16 @@
+# Sprint 4 Acceptance Checklist
+- [ ] Header says `Personal Data Layer · Sprint 4`.
+- [ ] Existing syllabus, concepts, Q1–90 and audit pages still load.
+- [ ] Sticky question header remains at top of its scroll box.
+- [ ] `My study data` opens.
+- [ ] A manual attempt can be saved and survives page refresh.
+- [ ] An incorrect attempt creates an open error.
+- [ ] An error can be marked resolved.
+- [ ] A revision can be scheduled and completed.
+- [ ] A study session can be logged.
+- [ ] Concept page shows attempt/error/revision counts.
+- [ ] Personal backup downloads as JSON.
+- [ ] Exported backup can be re-imported.
+- [ ] Clearing personal data asks for confirmation.
+- [ ] Reference evidence files remain unchanged.
+- [ ] No priority, distribution or readiness calculation appears.

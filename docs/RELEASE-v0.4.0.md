@@ -1,0 +1,2 @@
+# v0.4.0 — Personal Data Layer
+Adds local-only study activity tracking. Reference evidence and provenance are unchanged. Known limitation: personal data does not sync between devices; use export/import.

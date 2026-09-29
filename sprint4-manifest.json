@@ -1,0 +1,16 @@
+{
+  "release": "0.4.0",
+  "type": "update",
+  "requires": "Sprint 2+ reference data",
+  "replaces": [
+    "index.html",
+    "src/app.js",
+    "src/styles.css"
+  ],
+  "adds": [
+    "README-SPRINT-4.md",
+    "docs/SPRINT-4-ACCEPTANCE.md",
+    "docs/RELEASE-v0.4.0.md",
+    "tests/sprint4-static-check.py"
+  ]
+}
