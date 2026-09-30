@@ -1,0 +1,11 @@
+{
+  "release": "ui-1.0",
+  "type": "additive-update",
+  "adds": [
+    "ui.html",
+    "src/modern-ui.css",
+    "src/modern-ui.js"
+  ],
+  "replaces": [],
+  "data": "Existing local storage and concepts only"
+}
