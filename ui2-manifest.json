@@ -1,0 +1,15 @@
+{
+  "release": "ui-2.0",
+  "type": "additive-update",
+  "adds": [
+    "app.html",
+    "src/ui2.css",
+    "src/ui2.js"
+  ],
+  "replaces": [],
+  "dataPolicy": "Actual local data only; no synthetic records",
+  "compatibleWith": [
+    "Sprints 4-8.5",
+    "Modern UI Sprint 1"
+  ]
+}
