@@ -1,0 +1,2 @@
+# SmartPrep UI Sprint 3
+Adds Focus Mode, a timer, a real-data session plan, progress tracking, quick links, responsive navigation, and shared visual polish. It never creates synthetic study records. Existing pages remain intact.

@@ -1,0 +1,16 @@
+{
+  "release": "ui-3.0",
+  "type": "additive-update",
+  "adds": [
+    "focus.html",
+    "src/ui3.css",
+    "src/ui3.js",
+    "src/ui3-shared.css"
+  ],
+  "replaces": [],
+  "dataPolicy": "Actual local records only; no synthetic data",
+  "compatibleWith": [
+    "Sprints 4\u20138.5",
+    "UI Sprint 2"
+  ]
+}

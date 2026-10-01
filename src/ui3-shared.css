@@ -1,0 +1,2 @@
+/* Optional shared polish: add after each page's existing stylesheet. */
+:root{--ui3-radius:16px;--ui3-shadow:0 12px 34px rgba(14,55,48,.09)}button,a{transition:transform .18s ease,box-shadow .18s ease,background-color .18s ease}button:not(:disabled):hover,.button:hover{transform:translateY(-2px)}.panel,.card{border-radius:var(--ui3-radius)!important}thead th{position:sticky;top:0;background:#e6f2ef;z-index:2}@media(prefers-reduced-motion:reduce){*,*:before,*:after{scroll-behavior:auto!important;transition:none!important}}
