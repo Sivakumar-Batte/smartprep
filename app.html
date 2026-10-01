@@ -1,3 +1,117 @@
-<!doctype html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#073f38"><title>SmartPrep — Study Workspace</title><link rel="stylesheet" href="./src/ui2.css"></head><body>
-<div class="shell"><aside id="side"><a class="brand" href="./app.html"><b>S</b><span><strong>SmartPrep</strong><small>Personal study OS</small></span></a><nav id="desktopNav"></nav><div class="aside-foot"><button id="theme">◐ <span>Switch theme</span></button><a href="./cloud.html" id="syncState">● Local mode</a></div></aside>
-<section class="workspace"><header><button id="menu" aria-label="Toggle menu">☰</button><div><p class="eyebrow">SMARTPREP WORKSPACE</p><h1 id="pageTitle">Dashboard</h1></div><div class="header-actions"><button id="searchBtn" title="Search concepts">⌕</button><a class="avatar" href="./cloud.html">SK</a></div></header><main id="view"></main></section></div><nav class="bottom" id="mobileNav"></nav><dialog id="search"><form method="dialog"><div class="searchbox"><span>⌕</span><input id="searchInput" placeholder="Search concepts and pages…" autofocus><button>×</button></div><div id="searchResults"></div></form></dialog><div id="toast"></div><script type="module" src="./src/ui2.js"></script></body></html>
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="theme-color" content="#073f38">
+
+    <title>SmartPrep — Study Workspace</title>
+
+    <!-- UI Sprint 2 -->
+    ./src/ui2.css
+
+    <!-- UI Sprint 4 Unified Design System -->
+    ./src/ui4-unified.css
+</head>
+
+<body>
+
+<div class="shell">
+
+    <aside id="side">
+
+        ./app.html
+            <b>S</b>
+            <span>
+                <strong>SmartPrep</strong>
+                <small>Personal study OS</small>
+            </span>
+        </a>
+
+        <nav id="desktopNav"></nav>
+
+        <div class="aside-foot">
+            <button id="theme">
+                ◐ <span>Switch theme</span>
+            </button>
+
+            ./cloud.html
+                ● Local mode
+            </a>
+        </div>
+
+    </aside>
+
+    <section class="workspace">
+
+        <header>
+
+            <button id="menu" aria-label="Toggle menu">
+                ☰
+            </button>
+
+            <div>
+                <p class="eyebrow">SMARTPREP WORKSPACE</p>
+                <h1 id="pageTitle">Dashboard</h1>
+            </div>
+
+            <div class="header-actions">
+
+                <button
+                    id="searchBtn"
+                    title="Search concepts">
+                    ⌕
+                </button>
+
+                ./cloud.html
+                    SK
+                </a>
+
+            </div>
+
+        </header>
+
+        <main id="view"></main>
+
+    </section>
+
+</div>
+
+<nav
+    class="bottom"
+    id="mobileNav">
+</nav>
+
+<dialog id="search">
+
+    <form method="dialog">
+
+        <div class="searchbox">
+
+            <span>⌕</span>
+
+            <input
+                id="searchInput"
+                placeholder="Search concepts and pages…"
+                autofocus>
+
+            <button>×</button>
+
+        </div>
+
+        <div id="searchResults"></div>
+
+    </form>
+
+</dialog>
+
+<div id="toast"></div>
+
+<!-- Existing Dashboard Engine -->
+./src/ui2.jsscript>
+
+<!-- UI Sprint 4 Unified Shell -->
+./src/ui4-shell.jsscript>
+
+</body>
+</html>
