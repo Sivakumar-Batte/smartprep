@@ -1,0 +1,17 @@
+{
+  "release": "ui-4.0",
+  "type": "safe-unification-layer",
+  "adds": [
+    "src/ui4-unified.css",
+    "src/ui4-shell.js"
+  ],
+  "requiresManualTags": true,
+  "replaces": [],
+  "preserves": [
+    "existing page JavaScript",
+    "localStorage keys",
+    "Supabase sync configuration",
+    "evidence data"
+  ],
+  "security": "No keys or credentials included"
+}
